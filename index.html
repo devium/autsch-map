@@ -6,7 +6,7 @@
     <meta name="robots" content="noindex">
     <meta name="title" content="WorkAdventure Starter Kit">
    
-    <link href="src/style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <link rel="icon" href="https://workadventu.re/favicon-96x96.png">
     <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
     <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
@@ -20,12 +20,13 @@
                 path = path.substr(path, path.length - 'index.html'.length);
             }
             const instanceId = Math.random().toString(36).substring(2, 15);
-            const url = `https://play.workadventu.re/_/${instanceId}/${host}${path}map.json`;
+            const mapName = "forest.json"
+            const url = `https://play.workadventu.re/_/${instanceId}/${host}${path}${mapName}`;
             document.getElementById('testMapURL').href = url;
             document.getElementById('testMapBtnURL').href = url;
             document.getElementById('testMapURL').innerText = url;
 
-            const jsonURL = window.location.protocol+'//'+window.location.host+path+'map.json';
+            const jsonURL = window.location.protocol+'//'+window.location.host+path+mapName;
             document.getElementById('jsonURL').innerText = jsonURL;
 
             const gettingStartedLink = 'https://workadventu.re/getting-started?name=Map&mapUrl='+jsonURL;

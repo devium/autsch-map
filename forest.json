@@ -550,37 +550,6 @@
  "nextlayerid":103,
  "nextobjectid":16,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"mapCopyright",
-         "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
-        }, 
-        {
-         "name":"mapDescription",
-         "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
-        }, 
-        {
-         "name":"mapImage",
-         "type":"string",
-         "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
-        }, 
-        {
-         "name":"mapName",
-         "type":"string",
-         "value":"Office"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script.js"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.8.2",
  "tileheight":32,
@@ -588,7 +557,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"src\/assets\/WA_Special_Zones.png",
+         "image":"assets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -611,7 +580,7 @@
         {
          "columns":12,
          "firstgid":13,
-         "image":"src\/assets\/Glacial-mountains-parallax-background_vnitti\/Layers\/cloud_lonely.png",
+         "image":"assets\/mountains\/cloud_lonely.png",
          "imageheight":216,
          "imagewidth":384,
          "margin":0,
@@ -624,7 +593,7 @@
         {
          "columns":12,
          "firstgid":85,
-         "image":"src\/assets\/Glacial-mountains-parallax-background_vnitti\/Layers\/clouds_bg.png",
+         "image":"assets\/mountains\/clouds_bg.png",
          "imageheight":216,
          "imagewidth":384,
          "margin":0,
@@ -637,7 +606,7 @@
         {
          "columns":12,
          "firstgid":157,
-         "image":"src\/assets\/Glacial-mountains-parallax-background_vnitti\/Layers\/glacial_mountains.png",
+         "image":"assets\/mountains\/glacial_mountains.png",
          "imageheight":216,
          "imagewidth":384,
          "margin":0,
@@ -650,7 +619,7 @@
         {
          "columns":12,
          "firstgid":229,
-         "image":"src\/assets\/Glacial-mountains-parallax-background_vnitti\/Layers\/sky_lightened.png",
+         "image":"assets\/mountains\/sky_lightened.png",
          "imageheight":216,
          "imagewidth":384,
          "margin":0,
@@ -663,7 +632,7 @@
         {
          "columns":29,
          "firstgid":301,
-         "image":"src\/assets\/forest\/PNG\/Background layers\/Layer_0000_9.png",
+         "image":"assets\/forest\/Layer_0000_9.png",
          "imageheight":793,
          "imagewidth":928,
          "margin":0,
@@ -676,7 +645,7 @@
         {
          "columns":29,
          "firstgid":997,
-         "image":"src\/assets\/forest\/PNG\/Background layers\/Layer_0001_8.png",
+         "image":"assets\/forest\/Layer_0001_8.png",
          "imageheight":793,
          "imagewidth":928,
          "margin":0,
@@ -689,7 +658,7 @@
         {
          "columns":29,
          "firstgid":1693,
-         "image":"src\/assets\/forest\/PNG\/Background layers\/Layer_0002_7.png",
+         "image":"assets\/forest\/Layer_0002_7.png",
          "imageheight":793,
          "imagewidth":928,
          "margin":0,
@@ -702,7 +671,7 @@
         {
          "columns":29,
          "firstgid":2389,
-         "image":"src\/assets\/forest\/PNG\/Background layers\/Layer_0003_6.png",
+         "image":"assets\/forest\/Layer_0003_6.png",
          "imageheight":793,
          "imagewidth":928,
          "margin":0,
@@ -715,7 +684,7 @@
         {
          "columns":29,
          "firstgid":3085,
-         "image":"src\/assets\/forest\/PNG\/Background layers\/Layer_0004_Lights.png",
+         "image":"assets\/forest\/Layer_0004_Lights.png",
          "imageheight":793,
          "imagewidth":928,
          "margin":0,
@@ -728,7 +697,7 @@
         {
          "columns":29,
          "firstgid":3781,
-         "image":"src\/assets\/forest\/PNG\/Background layers\/Layer_0005_5.png",
+         "image":"assets\/forest\/Layer_0005_5.png",
          "imageheight":793,
          "imagewidth":928,
          "margin":0,
@@ -741,7 +710,7 @@
         {
          "columns":29,
          "firstgid":4477,
-         "image":"src\/assets\/forest\/PNG\/Background layers\/Layer_0011_0.png",
+         "image":"assets\/forest\/Layer_0011_0.png",
          "imageheight":793,
          "imagewidth":928,
          "margin":0,
@@ -754,7 +723,7 @@
         {
          "columns":20,
          "firstgid":5173,
-         "image":"src\/assets\/village\/TX Village Props Tiled.png",
+         "image":"assets\/village\/village_props_tiled.png",
          "imageheight":480,
          "imagewidth":640,
          "margin":0,
@@ -767,7 +736,7 @@
         {
          "columns":3,
          "firstgid":5473,
-         "image":"src\/assets\/house.png",
+         "image":"assets\/house\/house.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -780,7 +749,7 @@
         {
          "columns":28,
          "firstgid":5485,
-         "image":"src\/assets\/solaria_shifted.png",
+         "image":"assets\/solaria\/solaria_shifted.png",
          "imageheight":480,
          "imagewidth":896,
          "margin":0,
