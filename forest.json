@@ -13,6 +13,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"toolbarButtons\": [\"camera\", \"chat\", \"closedcaptions\", \"desktop\", \"download\", \"embedmeeting\", \"etherpad\", \"feedback\", \"filmstrip\", \"fullscreen\", \"hangup\", \"help\", \"invite\", \"livestreaming\", \"microphone\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"profile\", \"raisehand\", \"recording\", \"security\", \"select-background\", \"settings\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"stats\", \"tileview\", \"toggle-camera\", \"videoquality\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"feast"
@@ -35,6 +40,11 @@
                  "name":"treehouse",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"toolbarButtons\": [\"camera\", \"chat\", \"closedcaptions\", \"desktop\", \"download\", \"embedmeeting\", \"etherpad\", \"feedback\", \"filmstrip\", \"fullscreen\", \"hangup\", \"help\", \"invite\", \"livestreaming\", \"microphone\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"profile\", \"raisehand\", \"recording\", \"security\", \"select-background\", \"settings\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"stats\", \"tileview\", \"toggle-camera\", \"videoquality\"] }"
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -59,6 +69,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"toolbarButtons\": [\"camera\", \"chat\", \"closedcaptions\", \"desktop\", \"download\", \"embedmeeting\", \"etherpad\", \"feedback\", \"filmstrip\", \"fullscreen\", \"hangup\", \"help\", \"invite\", \"livestreaming\", \"microphone\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"profile\", \"raisehand\", \"recording\", \"security\", \"select-background\", \"settings\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"stats\", \"tileview\", \"toggle-camera\", \"videoquality\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"pot"
@@ -81,6 +96,11 @@
                  "name":"campfire",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"toolbarButtons\": [\"camera\", \"chat\", \"closedcaptions\", \"desktop\", \"download\", \"embedmeeting\", \"etherpad\", \"feedback\", \"filmstrip\", \"fullscreen\", \"hangup\", \"help\", \"invite\", \"livestreaming\", \"microphone\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"profile\", \"raisehand\", \"recording\", \"security\", \"select-background\", \"settings\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"stats\", \"tileview\", \"toggle-camera\", \"videoquality\"] }"
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -105,6 +125,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"toolbarButtons\": [\"camera\", \"chat\", \"closedcaptions\", \"desktop\", \"download\", \"embedmeeting\", \"etherpad\", \"feedback\", \"filmstrip\", \"fullscreen\", \"hangup\", \"help\", \"invite\", \"livestreaming\", \"microphone\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"profile\", \"raisehand\", \"recording\", \"security\", \"select-background\", \"settings\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"stats\", \"tileview\", \"toggle-camera\", \"videoquality\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"ruins"
@@ -128,6 +153,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"toolbarButtons\": [\"camera\", \"chat\", \"closedcaptions\", \"desktop\", \"download\", \"embedmeeting\", \"etherpad\", \"feedback\", \"filmstrip\", \"fullscreen\", \"hangup\", \"help\", \"invite\", \"livestreaming\", \"microphone\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"profile\", \"raisehand\", \"recording\", \"security\", \"select-background\", \"settings\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"stats\", \"tileview\", \"toggle-camera\", \"videoquality\"] }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"well"
@@ -150,6 +180,11 @@
                  "name":"house",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"toolbarButtons\": [\"camera\", \"chat\", \"closedcaptions\", \"desktop\", \"download\", \"embedmeeting\", \"etherpad\", \"feedback\", \"filmstrip\", \"fullscreen\", \"hangup\", \"help\", \"invite\", \"livestreaming\", \"microphone\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"profile\", \"raisehand\", \"recording\", \"security\", \"select-background\", \"settings\", \"shareaudio\", \"sharedvideo\", \"shortcuts\", \"stats\", \"tileview\", \"toggle-camera\", \"videoquality\"] }"
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
